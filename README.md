@@ -1,9 +1,10 @@
 # Mini Project
 # Predicting Soil Moisture using Weather Data 
 # CS-A (ABESEC)
-# Atul Dagar (2000320120056)
-# Anurag Bhardwaj (2000320120039)
 # Aryan Tyagi (2000320120050)
+# Aryan Gupta (2000320120046)
+# Anurag Bhardwaj (2000320120039)
+# Aryan Parashar (2000320120048)
 # Code: [Predicting Soil Moisture](https://github.com/ABESProjects/Predicting-Soil-Moisture-and-Weather/blob/main/code/Predicting%20Soil%20Moisture.ipynb).
 # Data: [data](https://github.com/ABESProjects/Predicting-Soil-Moisture-and-Weather/tree/main/data)
 
